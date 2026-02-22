@@ -1,0 +1,8 @@
+scanpy
+anndata
+numpy
+pandas
+matplotlib
+scrublet
+leidenalg
+igraph
